@@ -67,6 +67,7 @@ for(j in 1:p){
 }
 R
 
+Sys.sleep(15)
 
 
 #Rの固有値
